@@ -147,7 +147,6 @@ Visando a evolução deste protótipo para um produto robusto integrado ao **Nex
 * [FastAPI Documentation](https://fastapi.tiangolo.com/)
 * [Groq Cloud API](https://console.groq.com/docs/quickstart)
 * [Pydantic Docs](https://www.google.com/search?q=https://docs.pydantic.dev/)
-* [The Twelve-Factor App](https://12factor.net/)
 
 ---
 
