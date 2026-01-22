@@ -1,4 +1,3 @@
-Aqui está o **README.md** profissional, formatado e pronto para você copiar.
 # ⚖️ Nexus Legal Classifier
 
  API REST para classificação automática de mensagens jurídicas, utilizando uma arquitetura híbrida de Inteligência Artificial Generativa (LLM) com fallback para heurísticas baseadas em regras.
