@@ -99,17 +99,6 @@ curl -X 'POST' \
 
 ```
 
-## 📸 Interface e Logs
-
-### 1. Documentação Interativa (Swagger UI)
-
-Interface gerada automaticamente pelo FastAPI para testes e documentação.
-*(Substitua esta imagem pelo seu print real salvo em assets/swagger.png)*
-
-### 2. Logs Estruturados e Telemetria
-
-O sistema possui logs detalhados monitorando latência e estratégia utilizada.
-*(Substitua esta imagem pelo seu print do terminal)*
 
 ## 🔄 Fluxograma de Execução
 
